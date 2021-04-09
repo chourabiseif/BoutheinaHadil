@@ -8,7 +8,7 @@ public class GitLessonApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(GitLessonApplication.class, args);
-        System.out.println("hello world");
+      
     }
 
 
